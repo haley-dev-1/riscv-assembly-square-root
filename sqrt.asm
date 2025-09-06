@@ -48,7 +48,8 @@ exit:   # print out answer with sys call (if (guess^2 with input) equal or equal
         # TODO: Print out answer and newline
 
         li      a7, 10 #system call (a7) # 10 is exit
-      
+
+# comment made for testing git CLI command
       
        
       
